@@ -1,0 +1,10 @@
+Captain:10000
+Captain:9000
+Captain:8000
+Captain:7000
+Captain:6000
+Captain:5000
+Captain:4000
+Captain:3000
+Captain:2000
+Captain:1000
